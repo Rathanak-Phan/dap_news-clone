@@ -1,5 +1,47 @@
-# Vue 3 + Vite
+# DAP News Clone 📰
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a **clone of the DAP News website**, built using **Vue 3**, **Vite**, and **Tailwind CSS**. It aims to replicate the structure, layout, and design of the original DAP News site for educational and practice purposes.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🔧 Technologies Used
+
+- ⚡ [Vite](https://vitejs.dev/) — Fast development build tool
+- 🌱 [Vue 3](https://vuejs.org/) — Modern JavaScript framework
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework
+
+## 📁 Project Structure
+
+dap_news-clone/
+├── public/ # Static assets (e.g., favicon)
+├── src/
+│ ├── assets/ # Images and other assets
+│ ├── components/ # Reusable components (Header, Footer, etc.)
+│ ├── views/ # Page-level components
+│ └── App.vue # Root Vue component
+├── index.html # Main HTML file
+├── package.json # Dependencies and scripts
+├── tailwind.config.js # Tailwind configuration
+├── vite.config.js # Vite configuration
+└── README.md # This file
+
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v14 or higher)
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/Rathanak-Phan/dap_news-clone.git
+cd dap_news-clone
+
+
+```
+
+Let me know if you'd like to create a `LICENSE` file describing the ITE terms explicitly—I can help you write that too.
+
+
