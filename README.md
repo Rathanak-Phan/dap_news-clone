@@ -14,6 +14,18 @@ This is a **clone of the DAP News website**, built using **Vue 3**, **Vite**, an
 
 ## 📁 Project Structure
 
+dap_news-clone/
+├── public/ # Static assets like favicon and robots.txt
+├── src/ # Source files for the app
+│ ├── assets/ # Images, icons, and other media files
+│ ├── components/ # Reusable Vue components (e.g., Header, Footer)
+│ ├── views/ # Page-level components representing routes/pages
+│ └── App.vue # Root Vue component
+├── index.html # Main HTML template
+├── package.json # Project metadata, dependencies, and scripts
+├── tailwind.config.js # Tailwind CSS configuration
+├── vite.config.js # Vite build and development server configuration
+└── README.md # Project documentation
 
 ---
 
